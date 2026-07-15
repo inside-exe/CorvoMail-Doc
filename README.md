@@ -34,3 +34,7 @@ Site oficial: [corvomail.online](https://corvomail.online)
 ## Avisos importantes
 
 O Corvo Mail não opera os servidores de recebimento de e-mail. Os domínios, caixas e mensagens são fornecidos pelo mail.tm e podem expirar ou ficar indisponíveis sem aviso. Não use caixas temporárias para contas importantes, documentos confidenciais, recuperação de senha ou qualquer conteúdo que precise ser preservado.
+
+## Desenvolvedor
+
+Projeto desenvolvido por **Inside**.
